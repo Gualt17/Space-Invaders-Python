@@ -6,8 +6,15 @@ Il progetto nasce come esercizio accademico e personale, con l’obiettivo di ap
 ---
 
 ## 🎮 Demo
-![Gameplay Screenshot](assets/home.png)
-![Gameplay Screenshot](assets/game.png)
+
+<p align="center">
+  <img src="Space_Invaders/assets/gameplay.gif" alt="Gameplay Demo" width="400"/>
+</p>
+
+<p align="center">
+  <img src="Space_Invaders/assets/home.png" alt="Game Screenshot" width="250" style="margin-right: 20px;"/>
+  <img src="Space_Invaders/assets/game.png" alt="Game Screenshot" width="250"/>
+</p>
 
 ## ⚙️ Tecnologie utilizzate
 - 🐍 Python 3.x  
