@@ -1,12 +1,12 @@
-# 🚀 Space Invaders in Python  
+🌍 Available languages: [English](README.md) | [Italiano](README.it.md)
 
-Clone del classico videogioco **Space Invaders**, sviluppato in **Python** utilizzando **Pygame**.  
-Il progetto nasce come esercizio accademico e personale, con l’obiettivo di approfondire concetti di **programmazione a oggetti**, **gestione di eventi in tempo reale** e **grafica 2D interattiva**.  
+# 🚀 Space Invaders in Python  
+Clone of the classic **Space Invaders** game, developed in **Python** using **Pygame**.  
+This project was created as both an academic and personal exercise, with the goal of exploring **object-oriented programming**, **real-time event handling**, and **interactive 2D graphics**.   
 
 ---
 
 ## 🎮 Demo
-
 <p align="center">
   <img src="Space_Invaders/assets/gameplay.gif" alt="Gameplay Demo" width="400"/>
 </p>
@@ -16,60 +16,62 @@ Il progetto nasce come esercizio accademico e personale, con l’obiettivo di ap
   <img src="Space_Invaders/assets/game.png" alt="Game Screenshot" width="250"/>
 </p>
 
-## ⚙️ Tecnologie utilizzate
+## ⚙️ Technologies
 - 🐍 Python 3.x  
-- 🎨 Pygame (grafica, input e audio)
+- 🎨 Pygame (graphics, input & audio)  
 
 ---
 
-## 📂 Struttura del progetto
+## 📂 Project's structure
 SpaceInvaders/
 
-├── src/         # codice sorgente
+├── src/         # source code
 
-├── assets/      # immagini e suoni
+├── assets/      # images and sounds
 
 └── requirements.txt
 
 ---
 
-## 📦 Installazione
-1. Clona il repository:
+## 📦 Installation
+1. Clone the repository:
 git clone https://github.com/Gualt17/Space-Invaders-Python.git
 cd space-invaders-python
 
-2. Installa le dipendenze:
+2. Install dependencies:
 pip install -r requirements.txt
 
-3. Avvia il gioco:
+3. Run the game:
 python main.py
 
 ---
 
-## 🕹️ Comandi di base
-⬅️ ➡️ Freccia sinistra/destra → movimento
+## 🕹️ Controls
 
-⬆️ Spazio → spara
+⬅️ ➡️ Left/Right arrows → move
 
----
-
-## 🌟 Funzionalità
-- Movimento del giocatore e nemici
-- Colpi e collisioni
-- Punteggio e Vite in tempo reale
-- Grafica in stile retro
+⬆️ Space → shoot
 
 ---
 
-## 🚀 Miglioramenti futuri
-- Possibilità di scegliere la difficoltà
-- Power-up e armi speciali
-- Tabellone con punteggi salvati localmente
-- Miglioramento della parte grafica
+## 🌟 Features
+- Player and enemy movement
+- Shooting and collisions
+- Real-time score and lives
+- Retro-style graphics
 
 ---
 
-## 👨‍💻 Autore
-Sviluppato da **Carmine Gualtieri**
+## 🚀 Future Improvements
+- Option to select difficulty levels
+- Power-ups and special weapons
+- Local high score leaderboard
+- Enhanced graphics
+
+---
+
+## 👨‍💻 Author
+Developed by **Carmine Gualtieri**
+
 📧 [Email](mailto:gualtieri.cb21@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/carmine-gualtieri-580562358) | [GitHub](https://github.com/Gualt17)  
