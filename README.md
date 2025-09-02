@@ -6,7 +6,8 @@ Il progetto nasce come esercizio accademico e personale, con l’obiettivo di ap
 ---
 
 ## 🎮 Demo
-(Aggiungere gif gioco)
+![Gameplay Screenshot](assets/home.png)
+![Gameplay Screenshot](assets/game.png)
 
 ## ⚙️ Tecnologie utilizzate
 - 🐍 Python 3.x  
