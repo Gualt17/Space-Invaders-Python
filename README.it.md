@@ -1,3 +1,5 @@
+🌍 Available languages: [English](README.md) | [Italiano](README.it.md)
+
 # 🚀 Space Invaders in Python  
 Clone del classico videogioco **Space Invaders**, sviluppato in **Python** utilizzando **Pygame**.  
 Il progetto nasce come esercizio accademico e personale, con l’obiettivo di approfondire concetti di **programmazione a oggetti**, **gestione di eventi in tempo reale** e **grafica 2D interattiva**.  
